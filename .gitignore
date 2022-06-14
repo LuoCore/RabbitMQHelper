@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/RabbitMQHelper/obj
+/RabbitMQHelper2/bin/Debug/net6.0
+/RabbitMQHelper2/obj
